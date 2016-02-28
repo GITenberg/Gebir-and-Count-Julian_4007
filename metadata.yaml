@@ -1,0 +1,29 @@
+_repo: Gebir-and-Count-Julian_4007
+covers:
+- cover_type: archival
+  image_path: 4007/4007-h/images/covers.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Landor, Walter Savage
+    alias: Landor, Savagius
+    birthdate: 1775
+    deathdate: 1864
+    gutenberg_agent_id: '1353'
+    url: http://www.gutenberg.org/2009/agents/1353
+    wikipedia: http://en.wikipedia.org/wiki/Walter_Savage_Landor
+description: ''
+gutenberg_issued: '2003-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4007'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'English poetry -- 18th century'
+- !lcc 'PR'
+title: Gebir, and Count Julian
+url: http://www.gutenberg.org/ebooks/4007
