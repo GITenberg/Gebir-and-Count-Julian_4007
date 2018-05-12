@@ -1,10 +1,8 @@
 _repo: Gebir-and-Count-Julian_4007
-_version: 0.1.0
+_version: 0.2.0
 covers:
 - cover_type: archival
-  image_path: 4007/4007-h/images/covers.jpg
-  rights: Public domain in the USA.
-  rights_url: http://creativecommons.org/about/pdm
+  image_path: 4007-h/images/coverb.jpg
 creator:
   author:
     agent_name: Landor, Walter Savage
@@ -15,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/1353
     wikipedia: http://en.wikipedia.org/wiki/Walter_Savage_Landor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/4007#Gebir-and-Count-Julian
 gutenberg_issued: '2003-05-01'
 gutenberg_type: Text
 identifiers:
